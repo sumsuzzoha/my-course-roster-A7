@@ -1,0 +1,76 @@
+[
+
+    {
+        "id": 1,
+        "cover_img": "https://i.ibb.co/56FFjWc/Rectangle-2-2.png",
+        "title": "C Programming Essentials",
+        "description": "Master the fundamentals of C programming. Learn about variables, loops, and functions in this beginner-friendly course.",
+        "price": 20000,
+        "credit_hours": 6
+      },
+      {
+        "id": 2,
+        "cover_img": "https://i.ibb.co/qkJhqWJ/Rectangle-2-3.png",
+        "title": "Algorithms and Data Structures",
+        "description": "Dive deep into advanced algorithms and data structures. Solve complex problems and optimize code efficiency.",
+        "price": 32000,
+        "credit_hours": 8
+      },
+      {
+        "id": 3,
+        "cover_img": "https://i.ibb.co/hcjhZQZ/Rectangle-2-4.png",
+        "title": "C++ Programming",
+        "description": "Learn C++ from scratch. Understand pointers, classes, and create C++ applications.",
+        "price": 12000,
+        "credit_hours": 3
+      },
+      {
+        "id": 4,
+        "cover_img": "https://i.ibb.co/bP1HRGk/Rectangle-3.png",
+        "title": "Data Structures and Algorithms",
+        "description": "Master data structures and algorithms. Solve complex problems and improve coding skills.",
+        "price": 26000,
+        "credit_hours": 7
+      },
+      {
+        "id": 5,
+        "cover_img": "https://i.ibb.co/FBv7bhp/Rectangle-2.png",
+        "title": "Python Fundamentals",
+        "description": "Master the basics of Python programming. Learn data types, control structures, and build simple applications.",
+        "price": 15000,
+        "credit_hours": 4
+      },
+      {
+        "id": 6,
+        "cover_img": "https://i.ibb.co/kQ1xpdk/Rectangle-2-5.png",
+        "title": "Cybersecurity Fundamentals",
+        "description": "Understand cybersecurity basics. Learn about threats, encryption, and secure network practices.",
+        "price": 14000,
+        "credit_hours": 4
+      },
+      {
+        "id": 7,
+        "cover_img": "https://i.ibb.co/2dF7zMk/Rectangle-3-1.png",
+        "title": "AWS Cloud Architect Certification",
+        "description": "Become an AWS Certified Cloud Architect. Learn AWS services, design scalable solutions, and ace the certification exam.",
+        "price": 35000,
+        "credit_hours": 9
+      },
+      {
+        "id": 8,
+        "cover_img": "https://i.ibb.co/Jq27xq8/Rectangle-2-1.png",
+        "title": "Databases and SQL",
+        "description": "Master database management and SQL. Learn to design, query, and manage relational databases.",
+        "price": 22000,
+        "credit_hours": 6
+      },
+      {
+        "id": 9,
+        "cover_img": "https://i.ibb.co/1fG3N2C/Rectangle-2-6.png",
+        "title": "Advanced Problem-Solving Strategies",
+        "description": "Enhance your problem-solving skills. Master advanced strategies and techniques to tackle complex challenges effectively.",
+        "price": 16000,
+        "credit_hours": 5
+      }
+      
+]

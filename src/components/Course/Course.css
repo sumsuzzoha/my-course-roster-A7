@@ -1,0 +1,13 @@
+.card-body{
+    max-width: 312px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: left;
+}
+.btn-select{
+    width: 100%;
+    color: white;
+    background-color: #2F80ED;
+    padding: 9px 0;
+}
