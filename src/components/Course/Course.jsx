@@ -8,14 +8,14 @@ const Course = ({ course, handleSelectCourse }) => {
         <div className="bg-white rounded-lg mx-auto p-4 card-body">
             <div>
                 <img className="mx-auto mb-4" src={cover_img} alt="" />
-                <h3 className="font-semibold mb-3">{title}</h3>
-                <p>{description}</p>
+                <h3 className="text-lg font-semibold mb-3">{title}</h3>
+                <p className="esp-text-color">{description}</p>
             </div>
             <div>
                 <div className="flex my-5 items-center gap-2">
                     <span><FiDollarSign></FiDollarSign></span>
-                    <p className="w-1/2 ">Price: {price}</p>
-                    <span><AiOutlineRead></AiOutlineRead></span><p>Credit: {credit_hours}</p>
+                    <p className="w-1/2 esp-text-color">Price: {price}</p>
+                    <span><AiOutlineRead></AiOutlineRead></span><p className="esp-text-color">Credit: {credit_hours}</p>
                 </div>
                 <button className="rounded-lg btn-select" 
                 onClick={()=>handleSelectCourse(course)}

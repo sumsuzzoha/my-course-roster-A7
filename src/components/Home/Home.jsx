@@ -28,9 +28,20 @@ const Home = () => {
         const sumCreditHours = creditHours + credit_hours;
         setCreditHours(sumCreditHours);
 
+        const newPrice = totalPrice + price;
+        setTotalPrice(newPrice);
+    }
 
-        const nePrice = totalPrice + price;
-        setTotalPrice(nePrice);
+    const handleRemoveCartCourse = (id, credit_hours, price) => {
+        const remainingSelectedCourses = selectedCourses.filter(selectedCourse => selectedCourse.id !== id)
+        setSelectedCourses(remainingSelectedCourses);
+
+        const remainingCourseCreditHours = creditHours - credit_hours;
+        setCreditHours(remainingCourseCreditHours);
+
+        const remainingPrice = totalPrice - price;
+        setTotalPrice(remainingPrice);
+
     }
 
     return (
@@ -41,6 +52,7 @@ const Home = () => {
                     creditHours={creditHours}
                     totalPrice={totalPrice}
                     selectedCourses={selectedCourses}
+                    handleRemoveCartCourse={handleRemoveCartCourse}
                 ></Cart>
                 <Courses
                     handleSelectCourse={handleSelectCourse}
