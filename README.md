@@ -1,10 +1,20 @@
-# React + Vite
+## my-course-roster-sumsuzzoha
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## [ Private assignment Repo Link](https://github.com/programming-hero-web-course2/my-course-roster-sumsuzzoha.git)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# my-course-roster-sumsuzzoha" 
-"# my-course-roster-sumsuzzoha" 
+
+##  Questions
+
+- Add at least 3 Project features 
+
+- Discuss how you managed the state in your assignment project.
+
+
+## First Question answer
+- 1. Display a comprehensive list of available courses with details such as course name, description, costing, credit hours etc.
+- 2. Enable students to Purshase for courses they are interested in.
+
+- 3. Students would know the limmition  to Purshase courses and why.
+
+## Second Question answer
