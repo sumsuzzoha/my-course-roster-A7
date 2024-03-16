@@ -1,6 +1,5 @@
 ## my-course-roster-sumsuzzoha
-
-## [ Private assignment Repo Link](https://github.com/programming-hero-web-course2/my-course-roster-sumsuzzoha.git)
+Livesite Link: https://course-roster-sumsuzzoha-70b314.netlify.app/
 
 
 
